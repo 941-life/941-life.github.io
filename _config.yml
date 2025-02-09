@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yunseul"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she
   bio              : "도전을 즐기는 개발자입니다."
   location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  employer         : "Gachon University"
+  uri              : "https://www.linkedin.com/in/941life/"
+  email            : "truzww@gmail.com" 
 
 
   flickr           : # Username
@@ -193,11 +193,11 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  study:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
@@ -230,7 +230,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: study
     values:
       layout: single
       author_profile: true
@@ -242,7 +242,7 @@ defaults:
       type: publications
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       share: true
       comments: true
   # _portfolio
