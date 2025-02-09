@@ -8,7 +8,3 @@
 - **front-end**: React, JavaScript, CSS, HTML, Flutter, Firebase
 - **AI study**: 머신러닝, 딥러닝, 데이터 분석
 
-
----
-**wlecome**
-
