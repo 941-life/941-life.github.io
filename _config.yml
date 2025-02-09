@@ -13,7 +13,7 @@ title                    : "therefore"
 title_separator          : "-"
 name                     : &name "Yunseul"
 description              : &description "도전을 즐기는 개발자입니다."
-url                      : https://941-life.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://941-life.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "941-life"
 
@@ -28,7 +28,7 @@ author:
   bio              : "도전을 즐기는 개발자입니다."
   location         : "Earth"
   employer         : "Gachon University"
-  uri              : "https://www.linkedin.com/in/941life/"
+  # uri              : 
   email            : "truzww@gmail.com" 
 
 
@@ -39,7 +39,7 @@ author:
   # keybase          : # Username
   # instagram        : # Username
   # lastfm           : # Username
-  linkedin         : yunsuel
+  linkedin         : "https://www.linkedin.com/in/941life/"
   # mastodon         : # URL
   # medium           : # URL
   # pinterest        : # Username
@@ -55,14 +55,14 @@ author:
   # youtube          : # Username
   # zhihu            : # Username
 
-# Publication Category - The following the list of publication categories and their headings
-publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+# # Publication Category - The following the list of publication categories and their headings
+# publication_category:
+#   books:
+#     title: 'Books'
+#   manuscripts:
+#     title: 'Journal Articles'    
+#   conferences:
+#     title: 'Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
