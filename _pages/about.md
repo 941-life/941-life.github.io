@@ -13,9 +13,9 @@ redirect_from:
 
 ## 📌 Theme  
 
-### 🖥 Front-End  
+###  Front-End  
 - **React**, JavaScript, CSS, HTML  
 - **Flutter**, Firebase  
 
-### 🤖 AI Study  
-- 머신러닝, 딥러닝, 데이터 분석  
+###  AI Study  
+- Deep learning
