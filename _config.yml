@@ -196,16 +196,22 @@ collections:
   study:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: false
+  talks:
+    output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
-
+  publications:
+    output: false
+  teaching:
+    output: false
+  blog_posts:
+    output: false
+  cv:
+    output: false
+  guide:
+    output: false
 
 # These settings control how pages and collections are included in the site
 defaults:
