@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yunseul"
-  pronouns         : "she"
+  # pronouns         : "she"
   bio              : "도전을 즐기는 개발자입니다."
   location         : "Earth"
   employer         : "Gachon University"
